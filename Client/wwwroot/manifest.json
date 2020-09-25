@@ -1,0 +1,15 @@
+{
+    "name": "My Blazor App",
+    "short_name": "My Blazor App",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#860000",
+    "theme_color": "#03173d",
+    "icons": [
+      {
+        "src": "beer-logo-192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }
+    ]
+  }
